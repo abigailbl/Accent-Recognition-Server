@@ -3,6 +3,7 @@ This project is an Accent Recognition system that classifies spoken English acce
 
 ## Authors
 Leah Hold leahho@edu.hac.ac.il 
+
 Abigail Blackman avigailbl@edu.hac.ac.il
 
 ## Table of Contents
