@@ -42,19 +42,16 @@ The Flask server (`flask_server.py`) provides a REST API to predict accents. Use
 
 ## Setup Instructions
 
-1. **Clone the repository**
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
-2. **Install required packages**
+
+1. **Install required packages**
 Make sure you have Python 3.x installed, then install the required packages:
 
    ```bash 
    pip install -r requirements.txt
-3. **Place Audio Files**
+2. **Place Audio Files**
 Place the .wav audio files for training in the audio/ directory.
 
-4. **Model Training**
+3. **Model Training**
 If you need to retrain the model, run the MODEL script section in the code provided above. The trained model will be saved as best_model3.keras, and the scaler will be saved as scaler.save.
 
 ## Usage
