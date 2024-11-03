@@ -1,6 +1,10 @@
 # Accent Recognition
 This project is an Accent Recognition system that classifies spoken English accents into three categories: England, India, and US. It includes a Convolutional Neural Network (CNN) model for classifying accents from audio files and a Flask API server for real-time predictions.
 
+## Authors
+Leah Hold leahho@edu.hac.ac.il 
+Abigail Blackman avigailbl@edu.hac.ac.il
+
 ## Table of Contents
 - [Overview](#overview)
 - [Project Structure](#project-structure)
